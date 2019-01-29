@@ -1,7 +1,7 @@
 # 💎 MASTERMIND RUBY 💎
 
 This implementation of the MasterMind game in Ruby allows a human to play against
-another human or against the computer. The computer use [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)’s 5 guess algorithm to
+another human or against the computer. The computer uses [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)’s 5 guess algorithm to
 break a code and is very hard to beat.
 
  ![solved](images/solved.png)
